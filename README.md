@@ -1,1 +1,1 @@
-# BIM_Apps_SentimentAnalysis
+# This repository is for appendices of "A Domain Knowledge Incorporated Text-Mining Approach for Capturing User Needs on BIM Applications". The main contribution is the corpus of all BIM Apps, better methods/algorithms are welcome to do the sentiment analysis and topic model, as well as the inferences. 
